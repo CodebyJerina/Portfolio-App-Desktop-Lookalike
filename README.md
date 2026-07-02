@@ -8,11 +8,11 @@ working terminal.
 
 ## Boot Sequence
 
-![Boot screen](./public/demo.gif)
+![Boot screen](./portfolioApp/public/demo.gif)
 
 ## Draggable Desktop
 
-![Draggable icons](./public/icondemo.gif)
+![Draggable icons](./portfolioApp/public/icondemo.gif)
 
 ## About
 
